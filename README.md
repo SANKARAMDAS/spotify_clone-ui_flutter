@@ -7,6 +7,8 @@ clone it first > go to the pubspec.yaml, and run pub get or go the cmd and run f
 
 This project is a starting point for a Flutter application.
 
+And ignore the font, it's my phone default font. 
+
 ![spotify-1](https://user-images.githubusercontent.com/31897843/216912498-f61f93fc-714a-4cfd-9ccf-dda090cffc45.jpg)
 ![spotify-2](https://user-images.githubusercontent.com/31897843/216912506-995aca4e-ffeb-40fa-96fc-36188c82a47f.jpg)
 ![spotify-3](https://user-images.githubusercontent.com/31897843/216912513-3de39fe3-c317-4742-8159-3586777abfc8.jpg)
